@@ -1,4 +1,6 @@
 //Rotate one by one 
+
+// Array Rotations
  function rotateArray(arr , d,  n ){
     for (let i= 0; i< d; i++){
         const first = arr.shift();
